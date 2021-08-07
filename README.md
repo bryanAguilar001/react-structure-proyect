@@ -4,6 +4,8 @@ Este proyecto ha sido generado con [React JS](https://es.reactjs.org/) versión 
 
 ## Contribuciones
 
+Este repositorio forma parte de un artículo que he publicado en [Medium](https://bryanaguilar6174.medium.com/estructura-base-para-proyectos-de-react-f4df35aa36dc) y en mi [Web personal](https://www.bryan-aguilar.com/blog/react-structure). Te invito a leer este artículo para que comprendas mejor como se maneja esta estructura.
+
 ## Uso
 
 Utiliza este proyecto si deseas iniciar una nueva aplicación en React Js, esta estructura te será de mucha ayuda.
